@@ -1,14 +1,14 @@
 {
 			"name": "Dana47",
-		 	"lvl": 8,
-		 	"xp": 140,
-		 	"totalXp": 700,
+		 	"lvl": 9,
+		 	"xp": 0,
+		 	"totalXp": 720,
 		 	"hp": 5,
 		 	"strenght": 4,
 		 	"defence": 1,
 		 	"magic": 1,
 		 	"range": 1,
-		 	"speed": 2,
+		 	"speed": 3,
 		 	"agility": 2,
 		 	"spriteType": 1
 		}
