@@ -1,8 +1,8 @@
 {
 			"name": "Benoit",
 		 	"lvl": 2,
-		 	"xp": 0,
-		 	"totalXp": 20,
+		 	"xp": 20,
+		 	"totalXp": 40,
 		 	"hp": 3,
 		 	"strenght": 1,
 		 	"defence": 1,
