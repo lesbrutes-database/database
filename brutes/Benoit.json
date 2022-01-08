@@ -1,14 +1,14 @@
 {
 			"name": "Benoit",
-		 	"lvl": 4,
-		 	"xp": 60,
-		 	"totalXp": 180,
-		 	"hp": 4,
+		 	"lvl": 5,
+		 	"xp": 0,
+		 	"totalXp": 200,
+		 	"hp": 5,
 		 	"strenght": 2,
 		 	"defence": 1,
 		 	"magic": 1,
 		 	"range": 1,
-		 	"speed": 2,
+		 	"speed": 3,
 		 	"agility": 1,
 		 	"spriteType": 1
 		}
