@@ -10,6 +10,6 @@
 		 	"range": 1,
 		 	"speed": 1,
 		 	"agility": 2,
-		 	"weapons": [],
+		 	"weapons": [1],
 		 	"spriteType": 1
 		}
