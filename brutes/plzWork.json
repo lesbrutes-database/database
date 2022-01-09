@@ -1,15 +1,15 @@
 {
 			"name": "plzWork",
-		 	"lvl": 4,
-		 	"xp": 60,
-		 	"totalXp": 260,
+		 	"lvl": 5,
+		 	"xp": 0,
+		 	"totalXp": 280,
 		 	"hp": 5,
 		 	"strenght": 3,
 		 	"defence": 1,
 		 	"magic": 1,
 		 	"range": 1,
-		 	"speed": 2,
+		 	"speed": 3,
 		 	"agility": 2,
-		 	"weapons": [6,13,20,28],
+		 	"weapons": [6,13,20,28,11],
 		 	"spriteType": 1
 		}
