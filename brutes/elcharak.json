@@ -1,15 +1,15 @@
 {
 			"name": "elcharak",
-		 	"lvl": 9,
-		 	"xp": 160,
-		 	"totalXp": 880,
-		 	"hp": 12,
+		 	"lvl": 10,
+		 	"xp": 0,
+		 	"totalXp": 900,
+		 	"hp": 13,
 		 	"strenght": 1,
 		 	"defence": 1,
 		 	"magic": 1,
 		 	"range": 1,
-		 	"speed": 3,
+		 	"speed": 4,
 		 	"agility": 2,
-		 	"weapons": [23],
+		 	"weapons": [23,7],
 		 	"spriteType": 1
 		}
