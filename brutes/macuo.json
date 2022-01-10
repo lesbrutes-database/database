@@ -1,9 +1,9 @@
 {
 			"name": "macuo",
-		 	"lvl": 3,
-		 	"xp": 40,
-		 	"totalXp": 100,
-		 	"hp": 4,
+		 	"lvl": 4,
+		 	"xp": 0,
+		 	"totalXp": 120,
+		 	"hp": 6,
 		 	"strenght": 2,
 		 	"defence": 1,
 		 	"magic": 1,
