@@ -1,9 +1,9 @@
 {
 			"name": "maxime le fort",
-		 	"lvl": 1,
+		 	"lvl": 2,
 		 	"xp": 0,
-		 	"totalXp": 0,
-		 	"hp": 3,
+		 	"totalXp": 20,
+		 	"hp": 5,
 		 	"strenght": 1,
 		 	"defence": 1,
 		 	"magic": 1,
