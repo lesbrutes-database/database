@@ -1,8 +1,8 @@
 {
 			"name": "John",
 		 	"lvl": 4,
-		 	"xp": 0,
-		 	"totalXp": 120,
+		 	"xp": 20,
+		 	"totalXp": 140,
 		 	"hp": 7,
 		 	"strenght": 1,
 		 	"defence": 1,
