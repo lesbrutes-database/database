@@ -1,9 +1,9 @@
 {
 			"name": "john3",
-		 	"lvl": 3,
+		 	"lvl": 4,
 		 	"xp": 0,
 		 	"totalXp": 20,
-		 	"hp": 4,
+		 	"hp": 6,
 		 	"strength": 2,
 		 	"defence": 1,
 		 	"magic": 1,
