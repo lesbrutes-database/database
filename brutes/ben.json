@@ -1,9 +1,9 @@
 {
 			"name": "ben",
-		 	"lvl": 1,
+		 	"lvl": 2,
 		 	"xp": 0,
-		 	"totalXp": 0,
-		 	"hp": 3,
+		 	"totalXp": 20,
+		 	"hp": 4,
 		 	"strength": 1,
 		 	"defence": 1,
 		 	"magic": 1,
