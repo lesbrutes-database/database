@@ -1,10 +1,10 @@
 {
 			"name": "John",
-		 	"lvl": 8,
+		 	"lvl": 9,
 		 	"xp": 60,
 		 	"totalXp": 180,
 		 	"hp": 10,
-		 	"strength": 2,
+		 	"strength": 3,
 		 	"defence": 1,
 		 	"magic": 1,
 		 	"range": 1,
