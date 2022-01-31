@@ -9,7 +9,7 @@
 		 	"magic": 1,
 		 	"range": 1,
 		 	"speed": 6,
-		 	"agility": 3,
+		 	"agility": 4,
 		 	"weapons": [23,7,15],
 		 	"spriteType": 1
 		}
